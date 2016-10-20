@@ -1,0 +1,58 @@
+body {
+  background-color: #fafafa;
+}
+
+img {
+  height: 80%;
+  width: 100%;
+}
+
+a.medium{
+  text-decoration: none;
+  cursor: pointer;
+  color: #00ab6b;
+}
+
+.inline-right {
+  display: inline-block;
+  float: right;
+}
+
+.inline-left {
+  display: inline-block;
+  float: left;
+}
+
+.green{
+  color: #00ab6b;
+}
+
+p{
+  font-family: 'Roboto' !important;
+}
+
+.logo {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar.navbar-default {
+  height: 70px;
+}
+
+.avatar {
+  height: 11%;
+  width: 11%;
+}
+
+.div-margin {
+  margin-bottom: 40px;
+}
+
+.left-space {
+  padding-left: 0;
+}
+
+.navbar-brand {
+  margin:10px;
+}
