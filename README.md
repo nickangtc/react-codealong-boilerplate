@@ -3,6 +3,7 @@
 ## What's included
 * All 3 CDNs needed for React to work: React.js, ReactDOM.js, JSXTransformer.js
 * Basic layout for recreating Medium app
+* Some simulated articles data "from the server"
 
 That's all. See you on the other side.
 
